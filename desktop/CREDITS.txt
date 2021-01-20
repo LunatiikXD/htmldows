@@ -1,5 +1,7 @@
-Hello! Welcome to 98.js.org
+Hello! Welcome to HTMLdows.
+Windows is trademarked by Microsoft, All copyrights belong to them.
 
+Original site by:
 https://github.com/1j01/98
 
 --------------------------------------
@@ -16,7 +18,7 @@ Webamp by Jordan Eldredge
 	Butterchurn Visualizer by Jordan Berg
 		https://github.com/jberg/butterchurn
 
-Paint, Sound Recorder, Notepad, and the 98.js.org desktop by Isaiah Odhner
+Paint, Sound Recorder, Notepad, and the 98.js.org desktop by Isaiah Odhner aka 1j01
 	https://github.com/1j01/98
 	https://github.com/1j01/jspaint
 

@@ -852,7 +852,7 @@ add_icon_not_via_filesystem({
 add_icon_not_via_filesystem({
 	title: "Internet Explorer",
 	icon: "internet-explorer",
-	open: function(){ Explorer("https://www.google.com/"); }
+	open: function(){ Explorer("https://www.bing.com/"); }
 });
 add_icon_not_via_filesystem({
 	title: "Paint",
