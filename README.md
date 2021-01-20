@@ -1,7 +1,7 @@
 
-# ![](images/icons/windows-update-32x32.png) [98.js](https://98.js.org)
+# ![](images/start.png) [HTMLdows]
 
-A web based Windows 98 desktop remake.
+Windows remade in HTML
 
 Includes:
 * ![](images/icons/notepad-16x16.png) Notepad ([separate README](programs/notepad/README.md))
@@ -20,11 +20,7 @@ Features:
 * **Help > Help Topics** in Paint, Sound Recorder, Notepad, and Minesweeper
 * You can add the site to your homescreen on mobile
 
-## Try it out
 
-[ ＥＮＴＥＲ　![](images/icons/windows-update-16x16.png)　ＷＩＮＤＯＷＳ　９８　体験へようこそ](https://98.js.org/)
-
-[![](images/3d.jpg)](https://98.js.org/)
 
 ## License
 
