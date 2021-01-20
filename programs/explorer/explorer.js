@@ -81,11 +81,11 @@ var go_to = function(address){
 	address = address || "/";
 	var is_url = !!address.match(/\w+:\/\//);
 	function handle_url_case() {
-		if(!address.match(/^https?:\/\/web.archive.org\//) && !address.startsWith(window.location.origin)){
-			if (address.match(/^https?:\/\/(www\.)?(windows93.net)/)) {
-				address = "https://web.archive.org/web/2015-05-05/" + address;
+		if(!address.match() && !address.startsWith(window.location.origin)){
+			if (address.match()) {
+				address = "" + address;
 			} else if (!address.match(/^https?:\/\/(www\.)?(copy.sh)/)) {
-				address = "https://web.archive.org/web/1998/" + address;
+				address = "" + address;
 			}
 		}
 		address_determined();
