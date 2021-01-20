@@ -54,6 +54,8 @@ html, body {
 .taskbar-divider,
 .tray {
 	margin: 2px;
+  opacity: 0.8;
+  bacground-color: rgb(30,30,30)
 }
 .taskbar-divider {
 	margin-right: 0px;
@@ -89,12 +91,13 @@ html, body {
 	line-height: 22px;
 	box-sizing: border-box;
 	vertical-align: middle;
-  background: rgb(30,30,30)
 }
 .tray-icons {
 	display: flex;
 	align-items: center;
 	margin-left: 2px; /* XXX basically 1px, but 2px because of the way the border is done */
+  opacity: 0.8;
+  background-color: rgb(30,30,30)
 }
 .tray-icon {
 	margin-left: 1px;
