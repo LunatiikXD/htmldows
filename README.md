@@ -1,5 +1,5 @@
 
-# ![](images/start.png) [HTMLdows]
+# ![](images/start.png) HTMLdows
 
 Windows remade in HTML
 
