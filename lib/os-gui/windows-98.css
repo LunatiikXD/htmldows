@@ -244,10 +244,9 @@ button:not(.lightweight).toggle.selected {
 
 .os-window .window-titlebar,
 body > .window-titlebar {
-	background: rgb(0, 0, 128);
+	background: rgb(255, 255, 255);
 	background: var(--ActiveTitle);
-	background: linear-gradient(to right, rgb(0, 0, 128) 0%, rgb(16, 132, 208) 100%);
-	background: linear-gradient(to right, var(--ActiveTitle) 0%, var(--GradientActiveTitle) 100%);
+	background: linear-gradient(to right, rgb(0, 128, 255) 0%, rgb(255, 255, 255) 100%);
 	
 	color: rgb(255, 255, 255);
 	
@@ -265,7 +264,7 @@ body > .window-titlebar {
 }
 .os-window:not(.focused) .window-titlebar {
 	background: darkgray;
-	background: linear-gradient(to right, rgb(128, 128, 128) 0%, rgb(181, 181, 181) 100%);
+	background: linear-gradient(to right, rgb(255, 255, 255) 0%, rgb(255, 255, 255) 100%);
 	background: linear-gradient(to right, var(--InactiveTitle) 0%, var(--GradientInactiveTitle) 100%);
 
 	color: rgb(192, 192, 192);
@@ -330,6 +329,7 @@ body > .window-titlebar {
 	text-overflow: ellipsis;
 	white-space: nowrap;
 	padding-left: 2px;
+  color: black;
 }
 .window-close-button {
 	/* display: block !important; */
